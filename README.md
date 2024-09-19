@@ -1,5 +1,7 @@
-Necessary imports:
+<h1>Necessary imports:</h1>
 
-pip install openpyxl
-pip install pyautogui
-pip install pillow
+<ul>
+  <li>pip install openpyxl</li>
+  <li>pip install pyautogui</li>
+  <li>pip install pillow</li>
+</ul>
